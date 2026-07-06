@@ -23,4 +23,4 @@ I love bull-rushing problems, learning new skills while the subsequent wounds ar
 
 ## Get in Touch 📬
 
-- **[LinkedIn]**(https://www.linkedin.com/in/filippo-dardi-804969366)
+**[LinkedIn]**(https://www.linkedin.com/in/filippo-dardi-804969366)
