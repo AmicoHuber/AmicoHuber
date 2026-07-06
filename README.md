@@ -8,7 +8,7 @@ I'm an **Apprentice Developer** with experience in **all things C#**.
 I love bull-rushing problems, learning new skills while the subsequent wounds are healing, and spending way too much time on niche, non-marketable hobbies.
 
 - 🤓 Currently learning: **C#, Blazor, Telerik for Blazor**
-- 🌍 Languages: **Italian, English, C#, Java, JS, even a smidge of C++**
+- 🌍 Languages: **English, Italian C#, Java, JS, even a smidge of C++**
 - 🐩 Fun fact: **I'm not actually a Pimpa plushie living inside a CCCP plastic glass, though I _wish_ I was**
 
 ## My Skills 👨‍🏫
@@ -21,6 +21,6 @@ I love bull-rushing problems, learning new skills while the subsequent wounds ar
 
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
 
-## Get in Touch 📬
+## Come say 'Hi' (or don't, I'm just a paragraph title) 📬
 
 - **[LinkedIn]**(https://www.linkedin.com/in/filippo-dardi-804969366)
