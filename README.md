@@ -1,6 +1,6 @@
 # Ciao, I'm Amico Huber! 👋
 
-![Banner Image](https://raregallery.art/mocahbig/1317745-Disco-Elysium-HD-Wallpaper.jpg)
+![La Martinaise panorama from Disco Elysium](https://wallpapercave.com/wp/wp5798487.jpg)
 
 ## About Me 🧙‍♂️
 
