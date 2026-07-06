@@ -14,10 +14,13 @@ I love bull-rushing problems, learning new skills while the subsequent wounds ar
 ## My Skills 👨‍🏫
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
 
 ## Get in Touch 📬
 
-- ![LinkedIn](https://www.linkedin.com/in/filippo-dardi-804969366/)
+- **[LinkedIn]**(https://www.linkedin.com/in/filippo-dardi-804969366)
