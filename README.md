@@ -1,7 +1,7 @@
 # Ciao, I'm Amico Huber! 👋
 
 ![La Martinaise panorama from Disco Elysium](https://wallpapercave.com/wp/wp5798487.jpg)
-<figcaption>Un jour je serai de retour près de toi</figcaption>
+<i style:"text-align: center">Un jour je serai de retour près de toi</i>
 
 ## About Me 🧙‍♂️
 
