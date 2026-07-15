@@ -11,7 +11,7 @@ I love bull-rushing problems, learning new skills while the subsequent wounds ar
 - 🤓 Currently learning: **C#, Blazor, Telerik for Blazor**
 - 🌍 Languages: **English, Italian, tiny bit of French as a youngster**
 - 🖥️ Programming Languages: **C#, Java, JS, even a smidge of C++ (which I consider programming French)**
-- 🐩 Fun fact: **I'm not a sassy plushie living in a CCCP plastic glass. I _wish_ I looked that good**
+- 🐩 Fun fact: **I'm not actually a sassy plushie living in a CCCP plastic glass. I _wish_ I looked that good**
 
 ## My Skills 👨‍🏫
 
