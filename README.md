@@ -8,10 +8,10 @@
 I'm an **Apprentice Developer** with experience in **all things C#**. 
 I love bull-rushing problems, learning new skills while the subsequent wounds are healing, and spending way too much time on niche, non-marketable hobbies.
 
-- 🤓 Currently learning: **C#, Blazor, Telerik for Blazor**
-- 🌍 Languages: **English, Italian, tiny bit of French as a youngster**
-- 🖥️ Programming Languages: **C#, Java, JS, even a smidge of C++ (which I consider programming French)**
-- 🐩 Fun fact: **I'm not actually a sassy plushie living in a CCCP plastic glass. I _wish_ I looked that good**
+- 🤓 **Currently learning:** C#, Blazor, Telerik for Blazor
+- 🌍 **Languages:** English, Italian, tiny bit of French as a youngster
+- 🖥️ **Programming Languages:** C#, Java, JS, even a smidge of C++ (which I consider programming French)
+- 🐩 **Fun fact:** I'm not actually a sassy plushie living in a CCCP plastic cup. I _wish_ I looked that good
 
 ## My Skills 👨‍🏫
 
