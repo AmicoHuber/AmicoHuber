@@ -6,7 +6,7 @@
 ## About Me 🧙‍♂️
 
 I'm an **Apprentice Developer** with experience in **all things C#**. 
-I love bull-rushing problems, learning new skills while the subsequent wounds are healing, and spending way too much time on niche, non-marketable hobbies.
+I love bull-rushing problems, learning new skills while stitching the subsequent wounds, and spending way too much time on niche, non-marketable hobbies.
 
 - 🤓 **Currently learning:** C#, Blazor, Telerik for Blazor
 - 🌍 **Languages:** English, Italian, tiny bit of French as a youngster
